@@ -9,6 +9,7 @@ fn sif() {
 }
 
 fn selseif() {
+    let number = 3;
     if number % 4 == 0 {
         println!("number is divisible by 4");
     } else if number % 3 == 0 {
